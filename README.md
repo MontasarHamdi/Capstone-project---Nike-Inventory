@@ -27,5 +27,6 @@ will be printed.
 
 ▪ update_inventory - When the user exits, all the changes made via restock and shoe capture will be updated onto the 
 inventory.txt file.
-To use program make sure to have downloaded the inventory.txt file
+
+* To use program make sure to have downloaded the inventory.txt file
 
